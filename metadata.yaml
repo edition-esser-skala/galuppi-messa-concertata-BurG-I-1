@@ -1,17 +1,18 @@
-composer: Galuppi, Baldassare
+composer:
+  last: Galuppi
+  first: Baldassare
 title: Messa concertata
 id: BurG I/1
 genre: mass
 scoring: 2 S, 2 A, T, B (solo), S, A, T, B (coro), 2 vl, vla, b, org
+license: cc-by-sa-4.0
 sources:
-  1:
+  B1:
     siglum: D-Dl
     shelfmark: Mus.2973-D-18
-    type: manuscript copy
     date: 1750–1764
     rism: 212006133
-    url: http://digital.slub-dresden.de/id426039106
-github: galuppi-messa-concertata-BurG-I-1
-imslp: Missa_in_B-flat_major%2C_BurG_I%2F1_(Galuppi%2C_Baldassare)
-notes:
-
+    url: https://digital.slub-dresden.de/id426039106
+    license: public domain
+    principal: true
+imslp: Missa_in_B-flat_major,_BurG_I/1_(Galuppi,_Baldassare)
